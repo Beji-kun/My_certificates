@@ -1,6 +1,7 @@
-# Czech
+# Czech <img src="/Images/Country/CZ.ico" width="48">
 
-## Moje certifikáty <img src="/Images/Country/CZ.ico" width="48">
+## Moje certifikáty 
+<img src="/Images/PDF/PDF_icon.ico" width="24">
 
 Zde jsou moje certifikáty ze školení a kurzů, které jsem asboloval. Ale nejsou online ale pouze ve formátu PDF 
 <img src="/Images/PDF/PDF_icon.ico" width="16">.
@@ -15,9 +16,9 @@ Zde jsou moje certifikáty ze školení a kurzů, které jsem asboloval. Ale nej
 <img src="/Images/PDF/PDF_icon.ico" width="24">
 [Link](/PDF-certificates/Postman%20pro%20testery.pdf)
 
-# English
+# English <img src="/Images/Country/EN.ico" width="48">
 
-## My certificates <img src="/Images/Country/EN.ico" width="48">
+## My certificates 📝
 
 Here are my certificates from trainings and courses I have attended. But they are not online but only in PDF format 
 <img src="/Images/PDF/PDF_icon.ico" width="16">.
