@@ -3,9 +3,10 @@
   This is repository about my certificates which was finished and isnt online for verification.
   
   **Test analýza a test design**\
- <img src="https://github.com/Beji-kun/My_certificates/blob/main/Images/PDF_icon.ico" width="48">\
-  [Some title here]()\
+ <img src="/Images/PDF_icon.ico" width="48">\
+
   **Pokročilé techniky test analýzy**\
-  [Some title here]()**\
+ <img src="/Images/PDF_icon.ico" width="48">\
+
+ <img src="/Images/PDF_icon.ico" width="48"> 
   **Postman pro Testry**\
-  [Some title here]()\
