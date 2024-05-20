@@ -1,7 +1,6 @@
 # Czech <img src="/Images/Country/CZ.ico" width="48">
 
-## Moje certifikáty 
-<img src="/Images/PDF/PDF_icon.ico" width="24">
+## Moje certifikáty 📝
 
 Zde jsou moje certifikáty ze školení a kurzů, které jsem asboloval. Ale nejsou online ale pouze ve formátu PDF 
 <img src="/Images/PDF/PDF_icon.ico" width="16">.
